@@ -1,0 +1,6 @@
+# Node modules
+/functions/node_modules
+
+# for Firebase
+.firebaserc
+/functions/.runtimeconfig.json
